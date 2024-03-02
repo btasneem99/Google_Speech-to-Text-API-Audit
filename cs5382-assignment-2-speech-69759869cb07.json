@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cs5382-assignment-2-speech",
+  "private_key_id": "69759869cb07be3fcd765ba7924819226e29764f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+dz6uQ/LJsdp5\n1PCs+FMtBg9KXhhMge0E5+og1MeXLQVHmtvJPuc4OM4ttp8Nf9ROtGxz3xy7V7tO\nG+ISmgvXCLIZCPXSYlMqYWjsfe8P6EQimz77XvJXhQ8grQuGUTSWTg4ivKbGMiE4\ntAtud6uqYGA8aC2qQlstWwqnf6uiewTzYlgnakUWhm9ugTMfwQ0Df/Ay/utYEeqO\no6LMIF9XcZqqzBk3708Lm+pHAEU5Kq+XLtqTwTxOOih6B7Kdc2axQnvzASwox/IW\niVDK7HcXwj9H6/7m+Nb4UG0cmUqqYrKmGXlWUNLuMxlxgcZa7ShwDXi76yI9MZat\n8jzFLRcVAgMBAAECggEAFRbN/Wyvns6PEstVpMlQKF2R5tmZVitSq6bkISN+QApv\nmbiXWmaZInwDtEMSxGNhhh9rHL9ZBpNVvXXP5+BfrD0dvzDjSxqw+7HSdNES3c+J\nb82BwUKHkdI9VRBkBMjMClJ1NTpvOuXFEOq6k04z10cZkMa2O7JiNxjsCpTT08cb\nIUgxNYPsAFc78TVlESaP6ZBfEog1GlZcP3963hQQvisWBvLEXCdyOCjflXuKxgp1\njWCaYMdg7bwAfaCOpBdzd0FmReG9/sqY3QFrQ3H/FyMK/c/JjMfxFzeEEkMcFw1D\nBk6qu2BNHHFgwOHXIrIAykVUIDRnGqbjITU1aSKFEQKBgQD05fwnIemN1EW2JV0S\nlR7DvbQJFLH9pDWxtPrR11puC+il1ypG2XMoN9sstzAG5ou3LyTMdlhzk2NM6HWT\nxMRPk5pi5QXE4xwXGD3zLk+eEVs7A3y0/PyI5AdAIx9H55gFqOjobkO+z1UnvhVa\ne68gJb8fW6968owAnmX1XVQP/QKBgQDHGZOc95AmUxcROE0g/6GYl6aXO62EUs9O\nmsRfqA/gGygA6I9FnBsoRRUeWqBX8yYIF/N8QlrOcOXFzA+rAOX/5Sma41Rc7y6p\n2LHpUf0xUquYDhP5gutJnGMqekFStuPuvwEUWnn3gDyShwEaV3egGkCTkSVdNFDR\nsjBEkjzS+QKBgDIgGLpRwKIc/p/HigNRrlhWLdFmAQBvaeYTqvrkX0gC+/1lyutx\nepaSyDOg0x22doZqCdgnqPcPBdYqBlbWgW/gQEtZoRKpgYhgl918byNlXgz4K8BH\nv9CtC6bfCXoINx+BcRqR5x/ZBA78YxaAFlo4H6RlecdqealuwmO0VI5pAoGAVlxO\nvhhYC3ehGtQMCJM5eeHV3eWB51KwH01cfo18jV3aJUK62pvS383PUkJHKL8MMRiK\ngcyabM9lqz1PUoJqQWwadtfCgSkyWXPn/+eTZrCQQ71fhqv1+RD/pq4u5Xz1M1rg\nUf7IxsV2AKzUmqNz/RtGBXxA88O8hqi+7Q9tmKkCgYEA8oHU8uRGA9o0WJUgMMne\nkOvP4Gg+0vpKPL2tAKz/9Qdn3g3ydDuGkvvgVu3h/g78W80r7legPsHiJ+bxrQJ+\nSesaXMA0RhapsCgn8jI6lVIVq4s3LvOKFn91jLdnaER83r54QnapNKgRDi9DAWEN\nByQBwhYSkk21pci2EKbI4GU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "class-assignment-api@cs5382-assignment-2-speech.iam.gserviceaccount.com",
+  "client_id": "102156798254810307745",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/class-assignment-api%40cs5382-assignment-2-speech.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
